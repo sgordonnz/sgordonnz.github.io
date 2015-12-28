@@ -2,6 +2,7 @@
 	- Name: Stefan Gordon Portfolio Logic
 	- Author: Stefan Gordon <sgordon.nz@gmail.com>
 	- Version: 0.1.0 (dev0.1)
+	All rights reserved.
 */
 
 $(function() {
