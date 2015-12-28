@@ -12,7 +12,7 @@
 body {
 	position: relative;
 	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	background: url(https://secure.nzgordon.com/code/workspace/stefan/img/bg-qt.jpg) no-repeat center center fixed;
+	background: url(images/bg-qt.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
        -moz-background-size: cover;
     	 -o-background-size: cover;
@@ -131,11 +131,16 @@ header>div {
 	text-align: center;
 	color: #fff;
 }
+
 header>div>h1 {
 	margin: 0;
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+}
+
+header>div>hr {
+	border-top: #fff;
 }
 
 /* SECTION */
